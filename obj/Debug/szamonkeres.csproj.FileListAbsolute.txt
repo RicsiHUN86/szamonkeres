@@ -70,3 +70,4 @@ C:\Users\barnari\source\repos\szamonkeres\obj\Debug\szamonke.15D144D6.Up2Date
 C:\Users\barnari\source\repos\szamonkeres\obj\Debug\szamonkeres.exe
 C:\Users\barnari\source\repos\szamonkeres\obj\Debug\szamonkeres.pdb
 C:\Users\barnari\source\repos\szamonkeres\obj\Debug\szamonkeres.exe.config
+C:\Users\barnari\source\repos\szamonkeres\obj\Debug\szamonkeres_Content.g.cs
